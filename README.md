@@ -2,4 +2,4 @@
 
 ---
 
-https://vladimirmakarof.github.io/cssMemSlider/
+https://vladimirmakarof.github.io/CSS-MemSlider/
